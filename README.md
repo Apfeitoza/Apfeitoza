@@ -3,7 +3,7 @@
 Bem vindos ao meu perfil! Sou uma entusiasta de programação e estou entrando de cabeça nesse universo! Busco aprender e me desafiar a melhorar!
 
 ## Entre em contato comigo 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/knutzzy?igsh=MWM3bXV4d3pvZnVoZA%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-paula-feitoza-56aa73131/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annapaulaasf@gmail.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apfeitoza)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/knutzzy?igsh=MWM3bXV4d3pvZnVoZA%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apfeitoza/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annapaulaasf@gmail.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apfeitoza)
 
 ## :star: Sobre mim 
 - :briefcase: Trabalho como Assistente Administrativo com ênfase em __Departamento Pessoal__ e __Financeiro: Contas a Pagar__
