@@ -17,6 +17,6 @@ Bem vindos ao meu perfil! Sou uma entusiasta de programação e estou entrando d
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://shields.io)
+
 ## :bar_chart: Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apfeitoza&theme=dracula&show_icons=true)
